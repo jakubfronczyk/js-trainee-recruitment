@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    position: fixed;
+    width: 318px;
+    height: 500px;
+    left: 100px;
+    margin-top: 54px;
+}
+
+.title {
+    padding: 24px;
+    font-size: 18px;
+    font-weight: 500;
+}
