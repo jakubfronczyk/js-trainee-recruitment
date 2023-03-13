@@ -18,7 +18,7 @@ export default function Home() {
 
     return (
         <div className={styles.wrapper}>
-            <Navbar />
+            <Navbar key={Math.random()} />
             <div className={styles.content}>
                 {animals.map((animal) => (
                     <Animal
