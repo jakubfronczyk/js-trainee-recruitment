@@ -1,0 +1,8 @@
+.navlinks {
+    padding: 14px 48px;
+    color: rgba(113, 113, 122, 1);
+}
+
+.active {
+    color: rgba(242, 153, 74, 1) !important;
+}
